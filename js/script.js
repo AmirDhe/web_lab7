@@ -1,11 +1,11 @@
 document.addEventListener('DOMContentLoaded', () => {
-    // URL du fichier JSON sur GitHub
-    const jsonUrl = 'https://raw.githubusercontent.com/votre-utilisateur/votre-depot/master/products.json';
+ 
+     const jsonUrl = 'https://raw.githubusercontent.com/AmirDhe/web_lab7/master/products.json';
 
-    // Sélectionner l'élément qui contiendra les produits
+   
     const productsContainer = document.getElementById('products-container');
 
-    // Fonction pour afficher un produit
+    
     const displayProduct = (product) => {
         const productDiv = document.createElement('div');
         productDiv.innerHTML = `
@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
         productsContainer.appendChild(productDiv);
     };
 
-    // Récupérer et afficher les produits
+  
     fetch(jsonUrl)
         .then(response => response.json())
         .then(products => {
