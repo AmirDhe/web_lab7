@@ -1,1 +1,41 @@
-[{"id": 1, "name": "Laptop", "description": "A high-performance laptop", "price": 999.99, "image": "https://via.placeholder.com/150"}, {"id": 2, "name": "Smartphone", "description": "A fast and reliable smartphone", "price": 499.99, "image": "https://via.placeholder.com/150"}, {"id": 3, "name": "Headphones", "description": "Noise-cancelling headphones", "price": 89.99, "image": "https://via.placeholder.com/150"}, {"id": 4, "name": "Keyboard", "description": "A mechanical keyboard", "price": 59.99, "image": "https://via.placeholder.com/150"}, {"id": 5, "name": "Mouse", "description": "A wireless mouse", "price": 29.99, "image": "https://via.placeholder.com/150"}, {"id": 6, "name": "Monitor", "description": "A 4K UHD monitor", "price": 299.99, "image": "https://via.placeholder.com/150"}]
+[{
+    "id": 1, 
+    "name": "Laptop", 
+    "description": "A high-performance laptop", 
+    "price": 999.99, 
+    "image": "/Users/dahmane/lab7_js/images/shopping.jpeg"
+}, 
+{
+    "id": 2, 
+    "name": "Smartphone", 
+    "description": "A fast and reliable smartphone", 
+    "price": 499.99, "image": "https://via.placeholder.com/150"
+}, 
+{
+    "id": 3, 
+    "name": "Headphones", 
+    "description": "Noise-cancelling headphones", 
+    "price": 89.99, 
+    "image": "https://via.placeholder.com/150"
+}, 
+{
+    "id": 4, 
+    "name": "Keyboard", 
+    "description": "A mechanical keyboard", 
+    "price": 59.99, 
+    "image": "https://via.placeholder.com/150"
+}, 
+{
+    "id": 5, 
+    "name": "Mouse", 
+    "description": "A wireless mouse", 
+    "price": 29.99, 
+    "image": "https://via.placeholder.com/150"
+}, 
+{
+    "id": 6, 
+    "name": "Monitor", 
+    "description": "A 4K UHD monitor", 
+    "price": 299.99, 
+    "image": "https://via.placeholder.com/150"
+ }]
