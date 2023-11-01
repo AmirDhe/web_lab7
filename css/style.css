@@ -1,0 +1,27 @@
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+}
+
+#products-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    padding: 20px;
+}
+
+#products-container div {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    padding: 15px;
+    margin: 15px;
+    width: 300px;
+    text-align: center;
+}
+
+#products-container img {
+    max-width: 100%;
+    border-radius: 5px;
+}
