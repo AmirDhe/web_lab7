@@ -3,7 +3,7 @@
     "name": "Laptop", 
     "description": "A high-performance laptop", 
     "price": 999.99, 
-    "image": "/Users/dahmane/lab7_js/images/shopping.jpeg"
+    "image": "https://via.placeholder.com/150"
 }, 
 {
     "id": 2, 
