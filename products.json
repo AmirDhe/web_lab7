@@ -25,20 +25,20 @@
         "name": "Keyboard", 
         "description": "A mechanical keyboard", 
         "price": 59.99, 
-        "image": "https://via.placeholder.com/150"
+        "image": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcTtBzdOSPCbnheFEnu2sPZqEZDVs_r3SfNDU51sXZbLSEjNaJKEHiXoJAHwdV5we68y-sJl4IhV5kZ4mJhMVP38icZDePwK9PKSPjhqA5_WDDY&usqp=CAc"
     },
     {
         "id": 5, 
         "name": "Mouse", 
         "description": "A wireless mouse", 
         "price": 29.99, 
-        "image": "https://via.placeholder.com/150"},
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcT2nP_KD6ERf-aS1WvdOn5j8sbOoMq9BVQIVAGDYVaUHN1UkWVS6aEt5GYF5Hco8TutqY7HlZBjHOSmnd1_qm9xk0F8mEqAjno2tTQ5FaY&usqp=CAc"},
     {
         "id": 6, 
         "name": "Monitor", 
         "description": "A 4K UHD monitor", 
         "price": 299.99, 
-        "image": "https://via.placeholder.com/150"
+        "image": "https://encrypted-tbn0.gstatic.com/shopping?q=tbn:ANd9GcQNV3Mnvyf-94OpUQmiFVWPEo5WgpSEO1Zm_yLHf98dpruE_fQApOdsR8U5l_Q8ff8-6YxmTupBSsUEqiQVIIm--rXPrlRhcko&usqp=CAc"
     }
 ]
 
