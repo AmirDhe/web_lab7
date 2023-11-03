@@ -1,11 +1,11 @@
 document.addEventListener('DOMContentLoaded', () => {
- 
-     const jsonUrl = 'https://raw.githubusercontent.com/AmirDhe/web_lab7/master/products.json';
+   
+    const jsonUrl = 'https://raw.githubusercontent.com/AmirDhe/web_lab7/master/products.json';
 
    
     const productsContainer = document.getElementById('products-container');
 
-    
+
     const displayProduct = (product) => {
         const productDiv = document.createElement('div');
         productDiv.innerHTML = `
@@ -17,7 +17,7 @@ document.addEventListener('DOMContentLoaded', () => {
         productsContainer.appendChild(productDiv);
     };
 
-  
+   
     fetch(jsonUrl)
         .then(response => response.json())
         .then(products => {
