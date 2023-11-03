@@ -18,7 +18,7 @@
         "name": "Headphones", 
         "description": "Noise-cancelling headphones", 
         "price": 89.99, 
-        "image": "https://raw.githubusercontent.com/AmirDhe/web_lab7/encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTGejIMszKOlzEkex7DOysZVqIUDbQRvonpQubrpi_wGSYweM15_kTUtN9Br_3gxW3f2ldvFXaZOArhTphdGjk8wktqsMKFfQ&usqp=CAc"
+        "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTGejIMszKOlzEkex7DOysZVqIUDbQRvonpQubrpi_wGSYweM15_kTUtN9Br_3gxW3f2ldvFXaZOArhTphdGjk8wktqsMKFfQ&usqp=CAc"
     },
     {
         "id": 4, 
